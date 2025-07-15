@@ -1,10 +1,9 @@
 local scripts = {
-  
-    "https://raw.githubusercontent.com/MainScriptMl/Auro-reoin-para-kills/refs/heads/main/Top%20kills",
 
 "https://raw.githubusercontent.com/PheonixHub/Auto-punch-remote/refs/heads/main/Auto%20punch",
  
 "https://raw.githubusercontent.com/PheonixHub/Auto-kill-all-/refs/heads/main/Auto%20kill%20para%20todos",
+"https://raw.githubusercontent.com/MainScriptMl/Auro-reoin-para-kills/refs/heads/main/Top%20kills",
     }
 
 for _, url in ipairs(scripts) do
